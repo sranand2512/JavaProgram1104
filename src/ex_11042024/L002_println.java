@@ -1,11 +1,11 @@
 package ex_11042024;
 
-public class L002 {
+public class L002_println {
     public static void main(String[] args) {
         System.out.println("Saurabh ");
         System.out.println("Kumar ");
 
-        // ln means it will print in next line and for same we can user /n
+        // ln means it will print in next line and for same we can use /n
         //
 
 
